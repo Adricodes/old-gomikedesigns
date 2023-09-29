@@ -1,1 +1,1 @@
-https://github.com/Adricodes/old-gomikedesigns
+https://github.com/Adricodes/old-gomikedesigns.git
